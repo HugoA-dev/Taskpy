@@ -50,4 +50,4 @@ Podemos actualizar nuestra Política de Privacidad de vez en cuando. Te recomend
 
 Si tienes alguna pregunta sobre esta Política de Privacidad, no dudes en contactarnos a través de:
 
-**[holahugoam@gmail.com]**
+**holahugoam@gmail.com**
