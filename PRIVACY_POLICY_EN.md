@@ -34,7 +34,7 @@ To save your settings: Remember your theme and security preferences across app s
 All your information is processed and stored exclusively on your device. We do not have access to your tasks or your personal information.
 
 ## 3. Data Storage and Security
-All information is stored in the app's private and secure storage, managed by your operating system (Android/iOS). We use standard security measures provided by the Flutter platform and the mobile operating system to protect locally stored data.
+All information is stored in the app's private and secure storage, managed by your operating system (Android). We use standard security measures provided by the Flutter platform and the mobile operating system to protect locally stored data.
 
 The "Export Tasks" feature allows you to create a backup of your data in a .json file. This file is created on your device, and you have full control over it. The security of this exported file is your responsibility once you share or save it outside of the app.
 
